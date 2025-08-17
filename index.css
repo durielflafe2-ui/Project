@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: midnightblue;
+    color: aliceblue;
+    text-align: center;
+    width: auto;
+}
+h2{
+    color: crimson;
+    text-align: center;
+    font-family:  Helvetica, sans-serif;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: midnightblue;
+    color: white;
+    width: 0.cm;
+}
+fieldset{
+    background-color: black;
+    height: 1.2cm;
+    width: 2.2cm;
+}
